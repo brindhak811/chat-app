@@ -1,2 +1,2 @@
 # chat-app
-Web Based Chat Application
+Web Chat Application
